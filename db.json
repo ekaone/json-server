@@ -27,5 +27,12 @@
       "price": "$49.99",
       "image": "https://res.cloudinary.com/ddjsyskef/image/upload/v1615104151/samples/akwvwqhiikgrvbseoxh9.webp"
     }
+  ],
+  "url_shortener": [
+    {
+      "name": "Demo",
+      "url": "asdfh65",
+      "destination": "http://ekaprasetia.com/"
+    }
   ]
 }
